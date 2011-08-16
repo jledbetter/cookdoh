@@ -15,3 +15,4 @@ tmp/*
 *~
 *.mo
 .project
+.pydevproject
